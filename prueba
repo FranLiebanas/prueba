@@ -1,0 +1,7 @@
+<?php
+$a=1;
+echo "hola";
+$a=$a +1;
+var_dump($_COOKIE);
+echo phpinfo();
+?>
